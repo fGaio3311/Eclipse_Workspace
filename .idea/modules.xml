@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula06/Aula06.iml" filepath="$PROJECT_DIR$/Aula06/Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista05-11820468/Lista05-11820468.iml" filepath="$PROJECT_DIR$/Lista05-11820468/Lista05-11820468.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinhaLista/MinhaLista.iml" filepath="$PROJECT_DIR$/MinhaLista/MinhaLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eclipse-workspace.iml" filepath="$PROJECT_DIR$/.idea/eclipse-workspace.iml" />
+    </modules>
+  </component>
+</project>
